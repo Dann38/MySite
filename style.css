@@ -1,6 +1,13 @@
 *{
 
 }
+header{
+  padding: 15px;
+  background-color: #888888;
+}
+.title{
+  color: #ffffff;
+}
 body{
   display:flex;
   justify-content: center;
